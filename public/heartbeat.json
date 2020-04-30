@@ -1,0 +1,61 @@
+{
+    "id": 66,
+    "name": "BG",
+    "features": null,
+    "location_id": 7,
+    "site_id": 8,
+    "sub_id": 1,
+    "last_active_timestamp": "2020-04-28T08:29:59.339Z",
+    "date_created": "2020-04-23T23:17:06.378Z",
+    "date_updated": "2020-04-23T23:17:06.378Z",
+    "feeders": [
+        {
+            "id": 2,
+            "name": "BG feeder-ca3e7ab9-b4c3-4ae6-8251-579ef933890f",
+            "description": null,
+            "location_id": 7,
+            "device_id": 66,
+            "camera": {
+                "id": 0,
+                "Name": "HD User Facing",
+                "Status": "OK",
+                "Caption": "HD User Facing",
+                "Present": "True",
+                "Service": "usbvideo",
+                "DeviceID": "USB\\VID_04F2&PID_B64F&MI_00\\6&147B4C&0&0000",
+                "PNPClass": "Camera",
+                "ClassGuid": "{ca3e7ab9-b4c3-4ae6-8251-579ef933890f}",
+                "HardwareID": "System.String[]",
+                "StatusInfo": "",
+                "SystemName": "BG",
+                "Description": "USB Video Device",
+                "InstallDate": "",
+                "PNPDeviceID": "USB\\VID_04F2&PID_B64F&MI_00\\6&147B4C&0&0000",
+                "Availability": "",
+                "CompatibleID": "System.String[]",
+                "ErrorCleared": "",
+                "Manufacturer": "Microsoft",
+                "LastErrorCode": "",
+                "ErrorDescription": "",
+                "CreationClassName": "Win32_PnPEntity",
+                "ConfigManagerErrorCode": "0",
+                "ConfigManagerUserConfig": "False",
+                "SystemCreationClassName": "Win32_ComputerSystem",
+                "PowerManagementSupported": "",
+                "PowerManagementCapabilities": ""
+            },
+            "date_created": "2020-04-23T23:17:08.347Z",
+            "date_updated": "2020-04-23T23:17:08.347Z"
+        }
+    ],
+    "device_attributes": [],
+    "location": {
+        "id": 7,
+        "name": "default"
+    },
+    "site": {
+        "id": 8,
+        "name": "default",
+        "network_id": 1
+    }
+}

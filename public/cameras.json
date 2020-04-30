@@ -1,0 +1,30 @@
+[
+    {
+        "Name": "HD User Facing",
+        "Status": "OK",
+        "Caption": "HD User Facing",
+        "Present": "True",
+        "Service": "usbvideo",
+        "DeviceID": "USB\\VID_04F2&PID_B64F&MI_00\\6&147B4C&0&0000",
+        "PNPClass": "Camera",
+        "ClassGuid": "{ca3e7ab9-b4c3-4ae6-8251-579ef933890f}",
+        "HardwareID": "System.String[]",
+        "StatusInfo": "",
+        "SystemName": "BG",
+        "Description": "USB Video Device",
+        "InstallDate": "",
+        "PNPDeviceID": "USB\\VID_04F2&PID_B64F&MI_00\\6&147B4C&0&0000",
+        "Availability": "",
+        "CompatibleID": "System.String[]",
+        "ErrorCleared": "",
+        "Manufacturer": "Microsoft",
+        "LastErrorCode": "",
+        "ErrorDescription": "",
+        "CreationClassName": "Win32_PnPEntity",
+        "ConfigManagerErrorCode": "0",
+        "ConfigManagerUserConfig": "False",
+        "SystemCreationClassName": "Win32_ComputerSystem",
+        "PowerManagementSupported": "",
+        "PowerManagementCapabilities": ""
+    }
+]
